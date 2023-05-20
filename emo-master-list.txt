@@ -1,9 +1,7 @@
-😊 :blush:
+
 😃 :smiley:
 ☺️ :relaxed:
-😏 :smirk:
 😍 :heart_eyes:
-😘 :kissing_heart:
 😚 :kissing_closed_eyes:
 😳 :flushed:
 😌 :relieved:
@@ -41,7 +39,6 @@
 😂 :joy:
 😲 :astonished:
 😱 :scream:
-:neckbeard: :neckbeard:
 😫 :tired_face:
 😠 :angry:
 😡 :rage:
@@ -50,9 +47,6 @@
 😋 :yum:
 😷 :mask:
 😎 :sunglasses:
-😵 :dizzy_face:
-👿 :imp:
-😈 :smiling_imp:
 😐 :neutral_face:
 😶 :no_mouth:
 😇 :innocent:
@@ -73,7 +67,6 @@
 ⭐ :star:
 🌟 :star2:
 💫 :dizzy:
-💥 :boom:
 💥 :collision:
 💢 :anger:
 ❗ :exclamation:
@@ -81,7 +74,6 @@
 ❕ :grey_exclamation:
 ❔ :grey_question:
 💤 :zzz:
-💨 :dash:
 💦 :sweat_drops:
 🎶 :notes:
 🎵 :musical_note:
@@ -164,7 +156,6 @@
 🙉 :hear_no_evil:
 🙊 :speak_no_evil:
 💂‍♂️ :guardsman:
-💀 :skull:
 🐾 :feet:
 👄 :lips:
 💋 :kiss:
@@ -178,19 +169,8 @@
 👥 :busts_in_silhouette:
 💬 :speech_balloon:
 💭 :thought_balloon:
-:feelsgood: :feelsgood:
-:finnadie: :finnadie:
-:goberserk: :goberserk:
-:godmode: :godmode:
-:hurtrealbad: :hurtrealbad:
-:rage1: :rage1:
-:rage2: :rage2:
-:rage3: :rage3:
-:rage4: :rage4:
-:suspect: :suspect:
-:trollface: :trollface:
 
-Nature
+* Nature
 ☀️ :sunny:
 ☔ :umbrella:
 ☁️ :cloud:
@@ -215,7 +195,6 @@ Nature
 🐮 :cow:
 🐗 :boar:
 🐵 :monkey_face:
-🐒 :monkey:
 🐴 :horse:
 🐎 :racehorse:
 🐫 :camel:
@@ -250,7 +229,6 @@ Nature
 🐉 :dragon:
 🐐 :goat:
 🐓 :rooster:
-🐕 :dog2:
 🐖 :pig2:
 🐁 :mouse2:
 🐂 :ox:
@@ -846,28 +824,13 @@ Symbols
 ➖ :heavy_minus_sign:
 ➗ :heavy_division_sign:
 💮 :white_flower:
-💯 :100:
+
 ✔️ :heavy_check_mark:
 ☑️ :ballot_box_with_check:
 🔘 :radio_button:
-🔗 :link:
 ➰ :curly_loop:
 〰️ :wavy_dash:
 〽️ :part_alternation_mark:
 🔱 :trident:
 :black_square: :black_square:
 :white_square: :white_square:
-✅ :white_check_mark:
-🔲 :black_square_button:
-🔳 :white_square_button:
-⚫ :black_circle:
-⚪ :white_circle:
-🔴 :red_circle:
-🔵 :large_blue_circle:
-🔷 :large_blue_diamond:
-🔶 :large_orange_diamond:
-🔹 :small_blue_diamond:
-🔸 :small_orange_diamond:
-🔺 :small_red_triangle:
-🔻 :small_red_triangle_down:
-:shipit: :shipit:

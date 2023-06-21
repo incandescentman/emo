@@ -52,6 +52,7 @@
 💅🏼 :nbd:
 💅🏼 :nails:
 🥳 :woohoo:
+🥳 :yay:
 ✅ :checkmark:
 ✅ :done:
 🔗 :link:
@@ -62,7 +63,6 @@
 💨 :fast:
 🐕 :dog:
 🌙 :goodnight:
-😴 :sleep:
 🙈 :monkey:
 👋🏽 :hi:
 😔 :sadface:
@@ -118,3 +118,7 @@
 💦 :cum:
 😵‍💫 :drunk:
 🤐 :zipit:
+😂 :haha:
+😕 :slashy:
+🔪 :knife:
+🤔 :hmm:

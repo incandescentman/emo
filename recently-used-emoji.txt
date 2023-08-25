@@ -1,10 +1,20 @@
+These names follow a common naming convention, but please note that they might vary slightly depending on the platform or system you're using.
+🔪 :knife:
+🍅 :pomodoro:
+✌🏽 :peace:
+🐸 :frog:
+😅: phew:
+🔥 :fire:
+🗣 :SPEAKING HEAD IN SILHOUETTE:
+🌪 :CLOUD WITH TORNADO:
+🎷 :saxophone:
+🌎 :EARTH GLOBE AMERICA'S:
 🇺🇸 :flag for United States:
 🐕 :dog:
 👋🏽 :hi:
 😍 :omggg:
 🥳 :yay:
 😂 :haha:
-🤞🏽 :fingers crossed:
 😴 :sleep:
 😋 :yum:
 👿 :heyyy-devil:
@@ -28,3 +38,16 @@
 😳 :scared:
 😢 :crying:
 🤔 :hmm:
+🇨🇦 :flag for Canada:
+🗺 :WORLD MAP:
+🧳 :suitcase:
+🧳 :travel:
+💩 :poop:
+🏩 :LOVE HOTEL:
+✅ :checkmark:
+⏰ :ALARM CLOCK:
+🌟 :GLOWING STAR:
+🤞🏽 :fingers:
+🤷🏻‍♂️ :shrug:
+🙃 :UPSIDE-DOWN FACE:
+🙏🏽 :pray:

@@ -69,7 +69,6 @@
 😢 :crying:
 🤞🏽 :fingers:
 😅 :phew:
-👍🏽 :thumbsup:
 👎🏽 :thumbsdown:
 👌🏽 :perfect:
 👊🏽 :punch:
@@ -158,7 +157,6 @@
 🪃 :boomerang:
 🪄 :magic-wand:
 🪆 :nesting-dolls:
-🪐 :saturn:
 🪒 :razor:
 🪓 :axe:
 🪔 :diya-lamp:

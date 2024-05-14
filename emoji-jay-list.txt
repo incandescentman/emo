@@ -42,7 +42,7 @@
 ❄️ :snowflake:
 ⛄ :snowman:
 🥹 :proud:
-😅: phew:
+😅 :phew:
 🤮 :vomit:
 🤢 :gross:
 🤢 :nauseous:
@@ -68,7 +68,6 @@
 😔 :sadface:
 😢 :crying:
 🤞🏽 :fingers:
-😅 :phew:
 👎🏽 :thumbsdown:
 👌🏽 :perfect:
 👊🏽 :punch:
@@ -171,7 +170,6 @@
 🪞 :mirror:
 🪟 :window:
 🪠 :plunger:
-🪡 :needle-and-thread:
 🪡 :sewing-needle:
 🪢 :knot:
 🪣 :bucket:
@@ -199,3 +197,69 @@
 🫎 :moose:
 🫏 :donkey:
 🫐 :blueberries:
+📿 :rosary:
+📿 :catholicism:
+📿 :prayer-beads:
+🦾 :robot-arm:
+☢️ :nuclear:
+⚖️ :justice scales:
+🇮🇹 :italy:
+🌇 :sunset:
+🚢 :boat ship:
+🤘🏾 :heavy metal horns rock n roll:
+🐝 :bee:
+🪢 :rope:
+📺 :tv:
+❌ :x:
+🚂 :train:
+☠️ :crossbones:
+🤵🏻‍♂️ :butler jeeves:
+🏃🏻‍♂️ :runner:
+ ::
+🏁 :start:
+🏁 :start:
+🙄 :eyeroll:
+🚫 :cancel:
+😡 :angry:
+🙇🏻‍♂️ :bow:
+🗑️ :trash:
+🥗 :salad:
+🌃 :night sky:
+🗽 :nyc statue of liberty new york:
+🙈 :see no evil blindfold:
+😖 :frustrated:
+🤓 :nerd:
+☕ :coffee:
+👂🏽 :ear:
+🎅🏻 :Santa Claus:
+🎄 :Christmas tree:
+🐺 :wolf:
+🏋🏻 :gym:
+🎵 ::
+🎵 :music:
+🇨🇭 :swiss switzerland:
+🧀 :cheese:
+🙏🏽 :thanks thank you:
+🧘🏽‍♂️ :meditate:
+🤺 :fencing:
+🩸🤺 :slay:
+🧠 :brain:
+✈️ :flight:
+✈️ :flight takeoff taking off:
+🌶️ :pepper:
+🦇 :bat:
+🤗 :hug:
+🪲 :bug:
+😬 :nervous:
+💍 :ring diamond:
+🙃 :joke joking upside-down:
+🤧 :sneeze:
+🚴🏽 :bike bicycle cyclist:
+👀 :look:
+🐾 :Paw Prints:
+🥵 :burn:
+🌧️ :rain:
+🤺 :fight fencing sword:
+📚 :books:
+ ::
+🎂 :cake:

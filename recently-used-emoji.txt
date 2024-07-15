@@ -106,3 +106,5 @@ These names follow a common naming convention, but please note that they might v
 🐾 :Paw Prints:
 🤺 :fight fencing sword:
 🧁 :cupcake:
+🍅 :tomato:
+📿 :rosary:

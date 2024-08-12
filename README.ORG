@@ -1,2 +1,5 @@
-Jay's list of emoji
+* Jay's list of emoji
 
+
+** Dependencies
+- coreutils

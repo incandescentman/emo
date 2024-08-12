@@ -38,7 +38,7 @@
 👄 :lips:
 👀 :eyes:
 👅 :tongue:
-☀️ :sunny:
+☀️ :sunny-sunshine:
 ❄️ :snowflake:
 ⛄ :snowman:
 🥹 :proud:
@@ -261,5 +261,7 @@
 🌧️ :rain:
 🤺 :fight fencing sword:
 📚 :books:
- ::
 🎂 :cake:
+🎓 :graduate graduation master's degree Ph.D.:
+🎩 :top hat:
+🌞 :sunshine smile smiling:

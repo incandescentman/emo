@@ -111,3 +111,5 @@ These names follow a common naming convention, but please note that they might v
 🤺 :fight fencing sword:
 🧁 :cupcake:
 🙈 :monkey:
+🍅 :tomato:
+📿 :rosary:

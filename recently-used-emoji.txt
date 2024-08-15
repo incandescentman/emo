@@ -113,3 +113,4 @@ These names follow a common naming convention, but please note that they might v
 🙈 :monkey:
 🍅 :tomato:
 📿 :rosary:
+🙏🏽 :thanks thank you:

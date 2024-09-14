@@ -1,0 +1,5 @@
+*.dict merge=spellingdict
+brown-emoji.txt merge=spellingdict
+emoji-jay-list.txt merge=spellingdict
+emoji-master-list.txt merge=spellingdict
+recently-used-emoji.txt merge=spellingdict

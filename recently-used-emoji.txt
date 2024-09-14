@@ -118,3 +118,4 @@ These names follow a common naming convention, but please note that they might v
 🙏🏽 :thanks thank you:
 🙄 :eyeroll:
 😉 :winky:
+🫠 :melting:

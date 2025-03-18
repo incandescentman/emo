@@ -1,128 +1,130 @@
-🎅🏻 :Santa Claus:
-🥸 :disguise:
-🫣 :scared:
-💀 :dead:
-✈️ :flight:
-🎩 :top hat:
-🌌 :space cosmos milky way galaxy:
-🌞 :sunshine smile smiling:
-☀️ :sunny-sunshine:
-🎂 :cake:
-🩸🤺 :slay:
-🌧️ :rain:
-🪚 :carpentry-saw:
-🤧 :sneeze:
-😬 :nervous:
-👋🏽 :wave:
-🌶️ :pepper:
-🔗 :link:
-📿 :prayer-beads:
-✈️ :flight takeoff taking off:
-🧘🏽‍♂️ :meditate:
-🎄 :Christmas tree:
-😂 :laugh:
-☕ :coffee:
-🙈 :oops:
-🤓 :nerd:
-🕺🏽 :dancer:
-👐🏽 :open_hands:
-👨🏻‍🏫 :professor:
-👌🏽 :perfect:
-😕 :slashy:
-🤯 :mindblown:
-❌ :x:
-🪡 :needle-and-thread:
-🚂 :train:
-✅ :done:
-🤘🏾 :heavy metal horns rock n roll:
-🔪 :knife:
-🍅 :pomodoro:
-✌🏽 :peace:
-🐸 :frog:
-😅: phew:
-🔥 :fire:
-🗣 :SPEAKING HEAD IN SILHOUETTE:
-🌪 :CLOUD WITH TORNADO:
-🎷 :saxophone:
-🌎 :EARTH GLOBE AMERICA'S:
-🇺🇸 :flag for United States:
-🐕 :dog:
-👋🏽 :hi:
-😍 :omggg:
-🥳 :yay:
-😂 :haha:
-😴 :sleep:
-😋 :yum:
-👿 :heyyy-devil:
-😊 :smiley:
-🥰 :aww:
-👨🏻 :man:
-👣 :clues:
-🖖🏽 :vulcan:
-❤️ :heart:
-🫵🏽 :you:
-😍 :love:
-👀 :eyes:
-👣 :mystery:
-🙌🏽 :raised_hands:
-👨🏻 :moustache:
-⛄ :snowman:
-😈 :hehe-impish:
-😔 :sadface:
-🥹 :proud:
-🥳 :woohoo:
-😳 :scared:
-😢 :crying:
-🤔 :hmm:
-🇨🇦 :flag for Canada:
-🗺 :WORLD MAP:
-🧳 :suitcase:
-🧳 :travel:
-💩 :poop:
-🏩 :LOVE HOTEL:
-✅ :checkmark:
-⏰ :ALARM CLOCK:
-🌟 :GLOWING STAR:
-🤞🏽 :fingers:
-🤷🏻‍♂️ :shrug:
-🙃 :UPSIDE-DOWN FACE:
-🙏🏽 :pray:
-🧔🏻‍♂️ :bearded-man:
-💨 :fast:
-🌇 :sunset:
-🪛 :screwdriver:
-🫡 :salute:
-💅🏼 :nails:
- ❌ :x:
-🏝 :DESERT ISLAND:
-📺 :tv:
-🏁 :start:
-🕵🏻‍♂️ :detective:
-🙇🏻‍♂️ :bow:
-🦾 :robot-arm:
-🫶🏽 :heart-hands:
-🗽 :nyc statue of liberty new york:
-🤦🏻‍♂️ :ohno:
-🏋🏻 :gym:
-🇨🇭 :swiss switzerland:
-🧀 :cheese:
-🩸 :blood:
-🧠 :brain:
-💅🏼 :nbd:
-🏃🏻‍♂️ :runner:
-😡 :angry:
-💍 :ring diamond:
-🙃 :joke joking upside-down:
-🐾 :Paw Prints:
-🤺 :fight fencing sword:
-🧁 :cupcake:
-🙈 :monkey:
-🍅 :tomato:
-📿 :rosary:
-🙏🏽 :thanks thank you:
-🙄 :eyeroll:
-😉 :winky:
-🫠 :melting:
-🖕🏽 :middle fuck you:
-👴🏻 :God:
+🎯 :target goal bullseye darts:
 🦅 :eagle hawk:
+👴🏻 :God:
+🖕🏽 :middle fuck you:
+🫠 :melting:
+😉 :winky:
+🙄 :eyeroll:
+🙏🏽 :thanks thank you:
+📿 :rosary:
+🍅 :tomato:
+🙈 :monkey:
+🧁 :cupcake:
+🤺 :fight fencing sword:
+🐾 :Paw Prints:
+🙃 :joke joking upside-down:
+💍 :ring diamond:
+😡 :angry:
+🏃🏻‍♂️ :runner:
+💅🏼 :nbd:
+🧠 :brain:
+🩸 :blood:
+🧀 :cheese:
+🇨🇭 :swiss switzerland:
+🏋🏻 :gym:
+🤦🏻‍♂️ :ohno:
+🗽 :nyc statue of liberty new york:
+🫶🏽 :heart-hands:
+🦾 :robot-arm:
+🙇🏻‍♂️ :bow:
+🕵🏻‍♂️ :detective:
+🏁 :start:
+📺 :tv:
+🏝 :DESERT ISLAND:
+ ❌ :x:
+💅🏼 :nails:
+🫡 :salute:
+🪛 :screwdriver:
+🌇 :sunset:
+💨 :fast:
+🧔🏻‍♂️ :bearded-man:
+🙏🏽 :pray:
+🙃 :UPSIDE-DOWN FACE:
+🤷🏻‍♂️ :shrug:
+🤞🏽 :fingers:
+🌟 :GLOWING STAR:
+⏰ :ALARM CLOCK:
+✅ :checkmark:
+🏩 :LOVE HOTEL:
+💩 :poop:
+🧳 :travel:
+🧳 :suitcase:
+🗺 :WORLD MAP:
+🇨🇦 :flag for Canada:
+🤔 :hmm:
+😢 :crying:
+😳 :scared:
+🥳 :woohoo:
+🥹 :proud:
+😔 :sadface:
+😈 :hehe-impish:
+⛄ :snowman:
+👨🏻 :moustache:
+🙌🏽 :raised_hands:
+👣 :mystery:
+👀 :eyes:
+😍 :love:
+🫵🏽 :you:
+❤️ :heart:
+🖖🏽 :vulcan:
+👣 :clues:
+👨🏻 :man:
+🥰 :aww:
+😊 :smiley:
+👿 :heyyy-devil:
+😋 :yum:
+😴 :sleep:
+😂 :haha:
+🥳 :yay:
+😍 :omggg:
+👋🏽 :hi:
+🐕 :dog:
+🇺🇸 :flag for United States:
+🌎 :EARTH GLOBE AMERICA'S:
+🎷 :saxophone:
+🌪 :CLOUD WITH TORNADO:
+🗣 :SPEAKING HEAD IN SILHOUETTE:
+🔥 :fire:
+😅: phew:
+🐸 :frog:
+✌🏽 :peace:
+🍅 :pomodoro:
+🔪 :knife:
+🤘🏾 :heavy metal horns rock n roll:
+✅ :done:
+🚂 :train:
+🪡 :needle-and-thread:
+❌ :x:
+🤯 :mindblown:
+😕 :slashy:
+👌🏽 :perfect:
+👨🏻‍🏫 :professor:
+👐🏽 :open_hands:
+🕺🏽 :dancer:
+🤓 :nerd:
+🙈 :oops:
+☕ :coffee:
+😂 :laugh:
+🎄 :Christmas tree:
+🧘🏽‍♂️ :meditate:
+✈️ :flight takeoff taking off:
+📿 :prayer-beads:
+🔗 :link:
+🌶️ :pepper:
+👋🏽 :wave:
+😬 :nervous:
+🤧 :sneeze:
+🪚 :carpentry-saw:
+🌧️ :rain:
+🩸🤺 :slay:
+🎂 :cake:
+☀️ :sunny-sunshine:
+🌞 :sunshine smile smiling:
+🌌 :space cosmos milky way galaxy:
+🎩 :top hat:
+✈️ :flight:
+💀 :dead:
+🫣 :scared:
+🥸 :disguise:
+🎅🏻 :Santa Claus:
+🌁 :san francisco golden gate foggy:
